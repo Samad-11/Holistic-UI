@@ -9,6 +9,7 @@
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio",
+    "db:local": "turso dev --db-file dev.db",
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start"
